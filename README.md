@@ -1,7 +1,7 @@
 # Script With Tutorial !
 
 ```lua
-Username = "Your Nick Here"
+Username = "Mat_54113"
 LoadScreen = true 
 Webhook = "Your Link Here" -- Paste your Discord webhook here
 
